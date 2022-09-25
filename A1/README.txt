@@ -1,3 +1,5 @@
+File URL: https://github.com/dvarun/GaTech-ML/tree/master/A1
+
 Steps for executing the jupyter notebook
 Prior for running the file:
 - please ensure file bankchurn.csv and brainstroke.csv are in the same folder.
