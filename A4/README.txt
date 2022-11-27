@@ -11,7 +11,6 @@ System requirements
 Python 3 (recommended)
 jupyter core     : 4.7.0
 jupyter-notebook : 6.2.0
-qtconsole        : not installed
 ipython          : 7.19.0
 ipykernel        : 5.4.3
 jupyter client   : 6.1.11
