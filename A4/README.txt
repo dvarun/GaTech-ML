@@ -16,7 +16,6 @@ ipykernel        : 5.4.3
 jupyter client   : 6.1.11
 jupyter lab      : 3.0.5
 nbconvert        : 6.0.7
-ipywidgets       : not installed
 nbformat         : 5.1.2
 traitlets        : 5.0.5
 
